@@ -19,7 +19,14 @@ const TEAM_MEMBERS = [
     education: 'Bachelor of Technology in computer Science',
     photo: 'https://github.com/user-attachments/assets/39cb74ef-1e0f-49c4-bbc3-4dca2f8a42a2',
     email : 'sachin@visionml.tech'
-  }
+  },
+  {
+    name: 'Swetha Parthiban',
+    role: 'AI Researcher',
+    designation: 'Bachelor of Technology in Information Technology',
+    photo: 'https://github.com/user-attachments/assets/a6839b0a-ba96-4ccd',
+    email: '9921008045@klu.ac.in',
+  },
  
 ];
 
